@@ -1,0 +1,52 @@
+/*UCID: mg936
+**Date: 5 July 2023
+**Styling
+.alert-success {
+    color: black;
+    background-color: lightgreen;
+    width: fit-content;
+}
+
+.alert-warning {
+    background-color: orange;
+    color: black;
+    width: fit-content;
+}
+
+.alert-danger {
+    background-color: red;
+    color: black;
+    width: fit-content;
+}
+
+.alert-info {
+    background-color: turquoise;
+    color: black;
+    width: fit-content;
+}
+
+nav li {
+    display: inline-block; 
+    background-color: steelblue;
+}
+
+nav li a{color: whitesmoke;}
+
+nav li a:hover{background-color: darkcyan;}
+
+body{
+    background-color: slategray;
+    color: blanchedalmond;
+}
+
+input {
+    border: none;
+    border-bottom: 2px solid navy;
+}
+input:focus {
+    background-color: blanchedalmond;
+}
+*/
+label,th{
+    text-transform: capitalize;
+}
